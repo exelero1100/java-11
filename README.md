@@ -20,7 +20,8 @@
 
 ### Creating a Simple Java Program
 
-1. A Java class is compiled using the **javac** program. Compilation results in one or more class files depending on the contents of the Java source file. An example is shown below:
+1.O clasa este compilata folosind **javac** .  
+A Java class is compiled using the **javac** program. Compilation results in one or more class files depending on the contents of the Java source file. An example is shown below:
     ```java
     javac TestClass.java
     ```
